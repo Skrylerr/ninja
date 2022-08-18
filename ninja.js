@@ -15,7 +15,7 @@ class Ninja {
         this.salud;
     }
     drinkSake() {
-        this.salud = +10;
+        this.salud = 10;
     }
 }
 
